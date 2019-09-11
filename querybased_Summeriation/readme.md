@@ -11,7 +11,7 @@ https://pytorch.org/?utm_source=Google&utm_medium=PaidSearch&utm_campaign=%2A%2A
 
 pip install msgpack
 pip install flask
-pip isntall flask-core
+pip install flask-core
 
 # DataSet
 Download Squad dataset from and unzip it.
