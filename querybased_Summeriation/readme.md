@@ -14,7 +14,7 @@ pip install flask<br>
 pip install flask-core
 
 # DataSet
-Download Squad dataset from and unzip it.
+Download SQuAD dataset from and unzip it.
 https://rajpurkar.github.io/SQuAD-explorer/
 
 # Training
