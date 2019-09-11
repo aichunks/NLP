@@ -2,7 +2,7 @@
 Query based summarization is defined as the extracting the particular information from within words that means essential information that answers the query from original text. With the increasing the demands of solution of the problems in the field of artificial intelligence and natural language processing is one of the most challenging tasks. Query based text summarizer is the most defined and explored topic in the field of natural language processing which involves processing of text document with an appropriate result based on an input query. Query based text summarizer is based on the two techniques that is sentence- sentence and sentence- word – relationship using graph structure. 
 
 # Architecure 
-In This i have used Seq2Seq arichitecure with attention mecanisam. First text and wuery passed to endoer to encode the data the their we apply attension to question part and send to the decoder. the decoder is a regression to find the start and end of the text to answe the quey.
+In This i have used Seq2Seq arichitecure with attention mecanisam. First text and wuery passed to endoer to encode the data the their we apply attension to question part and send to the decoder. the decoder is a regression to find the start and end of the text to answer the query.
 
 <p align="center">
   <img src="qbatten.png">
