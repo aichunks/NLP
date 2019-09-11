@@ -7,6 +7,8 @@ There are mainly two steps in query-based summarization process i.e. Identificat
 # Prerequisites: -
 ## Install the pytorch 
 https://pytorch.org/?utm_source=Google&utm_medium=PaidSearch&utm_campaign=%2A%2ALP+-+TM+-+General+-+HV+-+IN&utm_adgroup=Install+PyTorch&utm_keyword=install%20pytorch&utm_offering=AI&utm_Product=PyTorch&gclid=CjwKCAjwk93rBRBLEiwAcMapUT2M4zGsIbIVmO-mdQgCaKXWEhquyhMj902KZzA0sL3nGrQre2tuJhoCOMcQAvD_BwE
+# 
+
 pip install msgpack
 
 
