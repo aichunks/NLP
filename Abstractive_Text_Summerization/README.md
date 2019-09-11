@@ -12,6 +12,10 @@ This model is implemented in TensorFlow and trained it on the CNN/Daily Mail dat
 # GAN (Generative Adversarial Network )
 In this 2 model are used generator and a discriminator genratore take the given text nad genrate some abstract text. and discriminator decide how much the genrated text is close to the actual given text. these 2 models get trained by the help of each other. 
 
+<p align="center">
+  <img src="gan.jpg">
+</p>
+
 
 ## Requirements
 * Python3 (tested on Python 3.6)
