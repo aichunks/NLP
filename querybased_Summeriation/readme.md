@@ -10,6 +10,16 @@ https://pytorch.org/?utm_source=Google&utm_medium=PaidSearch&utm_campaign=%2A%2A
 # 
 
 pip install msgpack
+pip install flask
+pip isntall flask-core
 
+# DataSet
+Download Squad dataset from and unzip it.
+https://rajpurkar.github.io/SQuAD-explorer/
+
+# Training
+python DataPrepration.py
+python train.py
 
 # Deployment: -
+PredictApi.py
